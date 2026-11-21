@@ -1,5 +1,5 @@
 # Port Scanner
-A simple Python port scanner built with sockets by Abel Mwedihanga.
+A Python port scanner for network security auditing. Scans target hosts for open ports and identifies running services. built with sockets by Abel Mwedihanga.
 
 ## How to use
 python Scanner.py <target> --start 1 --end 100
